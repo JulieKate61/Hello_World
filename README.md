@@ -12,8 +12,8 @@ Lists are
   * navel
   * valencia
 
-Here is an image of a kitty that I loaded up to images folder
+Here is an image of a kitty that I loaded up to images folder ![Image of cat](https://github.com/JulieKate61/Hello_World/blob/master/Images/cat.jpg)
 
 Here is a link to the various markdown commands https://guides.github.com/features/mastering-markdown/
   
-I'm wondering if my colleagues can contribute to this document via github?
+You can see the coding when you look at Edit File
