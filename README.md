@@ -21,3 +21,6 @@ You can see the coding when you look at Edit File
 This  bit of the text is adding material to the read-me file, but is in the branch "adding-stuff".
 Yaaaaay 
 Now to add an image...
+![Image of funny cat](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
+
+
