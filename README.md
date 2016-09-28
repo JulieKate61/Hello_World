@@ -32,6 +32,6 @@ I don't love cats because:
 * They're furry
 * They're funny
 * They're mean
-  *To me
-  *And everyone
+  * To me
+  * And everyone
   
