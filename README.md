@@ -24,6 +24,7 @@ Now to add an image...
 ![Image of funny cat](https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg)
 
 I love cats because:
+
 1. They're furry
 2. They're funny
 3. They're mean
